@@ -4,13 +4,15 @@ EZAmmoVendor
 	refills all ammo of every type, (optional) including rockets
 	enables you to buy ammo if youre full, if you want to for whatever reason
 	in theory should also make loading the menu in ammo vendors less buggy/glitchy when backpack is full of gear, by removing unused entries 
+Firing Range Vendors
 
+	Adds 5 vendors to the firing range in sanctuary
+	1,2,4, and 5 are weapon vendors
+	4 is default ammo vendor, or optionally another weapon vendor
 Seraphs Outside UVHM
 
 	Adds seraph crystals to the DLC raid bosses drop pools in normal/TVHM
 	Gives a 100% chance for either seraphs crystals to drop (approx 60%) or seraph gear to drop (weapons/Shields/etc. at approx 40%) 
-
-
 Unique Vendor
 
 	changes Bagman's Loot pool to include all non-farmable unique weapons in vanilla drop tables
