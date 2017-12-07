@@ -1,7 +1,3 @@
-DerpTrap
-
-	Replaces DeathTrap's name with DerpTrap
-	
 Seraphs Outside UVHM
 
 	Adds seraph crystals to the DLC raid bosses drop pools in normal/TVHM
