@@ -4,3 +4,4 @@ Ecore
 	not conflict with UCP additions and changes,
 	provide a utility for individuals to add their own drop pools,
 	and break nothing (preferably)
+-
