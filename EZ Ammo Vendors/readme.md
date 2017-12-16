@@ -7,4 +7,4 @@ EZAmmoVendor
 
 use the filter tool's option for refilling all ammo in one purchuse if you want to refill eeverything at once
 	
-![img](https://i.imgur.com/FEATqU9.jpg)
+![img](https://i.imgur.com/goq7nD8.jpg)
