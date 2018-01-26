@@ -1,4 +1,4 @@
-attempt at porting eridium weapons from BL1 -> bl2
+attempt at porting eridian weapons from BL1 -> bl2
 
 	replaces bandit brand gear
 	core is the main part for balance and working 
